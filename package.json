@@ -1,0 +1,19 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "Robot moving in 5 blocks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha ./test/**/*.spec.js"
+  },
+  "author": "Prince Jefferson Ho",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "dependencies": {
+    "open": "^6.4.0",
+    "socket.io": "^2.3.0"
+  }
+}

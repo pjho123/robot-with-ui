@@ -1,7 +1,10 @@
-# Robot
+# Robot with ui
 
-This project is based on the coding challenge link below.
-> https://docs.google.com/document/d/1q2MZKHniP0tpwJygpXkLsc3ojPQAZShlP7M6sCnKZtQ/edit#
+Using websocket to communicate node server and client side.
+
+> Frontend url: {currentPath}/index.html
+
+> Websocket host: http://localhost:3000
 
 ## Setup
 
@@ -22,7 +25,7 @@ Note: Once the page is already opened, you can now use the command `npm start` o
 * Run the robot script using test data from `./data/test-data.js`
 > `npm start --from-file`
 
-Note: There will be a 1 sec delay for every commands for this, just to see the movement of the robot when the browser tab is opened.
+Note: There will be a 1 sec delay for every commands, just to see the movement of the robot when the browser tab is opened.
 
 * Run the unit tests via mocha and will execute all `*.spec.js` files in `./test` directory
 > `npm test`
