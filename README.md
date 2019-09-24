@@ -42,14 +42,9 @@ The X and Y should be replace with the numbers from 0 to 4, these will be the in
  
 And F should be replace with either NORTH, EAST, SOUTH or WEST and this will be the facing direction of the robot.
 
-# Example output:
+# Example command:
 
 ```
-npm start
-
-> robot@1.0.0 start /home/prince/Documents/robot
-> node index.js
-
 PLACE 1,2,EAST
 MOVE
 MOVE
