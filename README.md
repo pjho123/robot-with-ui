@@ -2,7 +2,7 @@
 
 Using websocket to communicate node server and client side.
 
-> Frontend url: {currentPath}/index.html
+> Frontend url: {currentDirectory}/index.html
 
 > Websocket host: http://localhost:3000
 
