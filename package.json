@@ -10,7 +10,7 @@
   "author": "Prince Jefferson Ho",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "open": "^6.4.0",
